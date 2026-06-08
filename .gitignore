@@ -1,0 +1,37 @@
+# Large paper/source artifacts
+*.pdf
+*.epub
+*.mobi
+
+# Images and figures
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.tif
+*.tiff
+*.bmp
+*.svg
+
+# Archives and binary data dumps
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.7z
+*.rar
+*.bin
+*.pkl
+*.pickle
+*.pt
+*.pth
+*.safetensors
+
+# Local caches and temporary outputs
+*.tmp
+*.cache
+.DS_Store
+__pycache__/
+*.py[cod]
+
