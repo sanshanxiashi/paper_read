@@ -34,6 +34,7 @@ paper_read/
 
 - 每篇论文放在 `papers/<paper-id>/` 下。
 - `paper-id` 使用 `YYYY-MM-short-slug` 格式，例如 `2026-06-mai-thinking-1`。
+- 每篇论文的 `README.md` 必须保留论文 URL，优先与 `meta.yaml` 的 `source_url` 一致。
 - 原始 PDF 统一命名为 `paper.pdf`。
 - 抽取文本和翻译放在 `source/` 下。
 - 所有可读笔记放在 `notes/` 下。

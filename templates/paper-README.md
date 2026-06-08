@@ -1,8 +1,8 @@
-# MAI-Thinking-1
+# Paper Title
 
-论文：MAI-Thinking-1: Building a Hill-Climbing Machine
+论文：Paper Title
 
-URL：<https://microsoft.ai/pdf/mai-thinking-1.pdf>
+URL：
 
 ## 文件
 
@@ -16,12 +16,5 @@ URL：<https://microsoft.ai/pdf/mai-thinking-1.pdf>
 
 ## 主题
 
-- reasoning-model
-- pretraining
-- mid-training
-- reinforcement-learning
-- data-mixture
-- scaling-law
-- evaluation
-- synthetic-data
-- model-infrastructure
+- topic-slug
+
