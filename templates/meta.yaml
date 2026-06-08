@@ -1,0 +1,16 @@
+id: "YYYY-MM-paper-slug"
+title: "Paper Title"
+authors:
+  - "Author Name"
+year: YYYY
+read_date: "YYYY-MM-DD"
+status: "queued"
+topics:
+  - "topic-slug"
+source_url: ""
+local_pdf: "paper.pdf"
+notes:
+  reading: "notes/reading-notes.md"
+  summary: "notes/summary.zh.md"
+  external_views: "notes/external-views.md"
+

@@ -1,0 +1,24 @@
+id: "2026-06-mai-thinking-1"
+title: "MAI-Thinking-1: Building a Hill-Climbing Machine"
+authors:
+  - "The Microsoft AI Team"
+year: 2026
+read_date: "2026-06-08"
+status: "deep-read"
+topics:
+  - "reasoning-model"
+  - "pretraining"
+  - "mid-training"
+  - "reinforcement-learning"
+  - "data-mixture"
+  - "scaling-law"
+  - "evaluation"
+  - "synthetic-data"
+  - "model-infrastructure"
+source_url: "https://microsoft.ai/pdf/mai-thinking-1.pdf"
+local_pdf: "paper.pdf"
+notes:
+  reading: "notes/reading-notes.md"
+  summary: "notes/summary.zh.md"
+  external_views: "notes/external-views.md"
+
