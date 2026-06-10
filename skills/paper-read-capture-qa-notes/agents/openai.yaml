@@ -1,0 +1,4 @@
+interface:
+  display_name: "Paper Read: Capture QA Notes"
+  short_description: "Turn paper discussion Q&A into this repo reading notes."
+  default_prompt: "Summarize our discussion into this paper_read repo reading notes."

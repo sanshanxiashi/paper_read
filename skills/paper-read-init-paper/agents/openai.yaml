@@ -1,0 +1,4 @@
+interface:
+  display_name: "Paper Read: Init Paper"
+  short_description: "Initialize a new paper entry in this paper_read repo."
+  default_prompt: "Initialize this paper in the project paper_read library following local conventions."

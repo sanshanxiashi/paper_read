@@ -1,0 +1,28 @@
+id: "2026-05-why-larger-models-learn-more"
+title: "Why Larger Models Learn More: Effects of Capacity, Interference, and Rare-Task Retention"
+authors:
+  - "Jing Huang"
+  - "Daniel Wurgaft"
+  - "Rachit Bansal"
+  - "Laura Ruis"
+  - "Naomi Saphra"
+  - "David Alvarez-Melis"
+  - "Andrew Kyle Lampinen"
+  - "Christopher Potts"
+  - "Ekdeep Singh Lubana"
+year: 2026
+read_date: "2026-06-09"
+status: "reading"
+topics:
+  - "pretraining"
+  - "scaling-law"
+  - "data-mixture"
+  - "synthetic-data"
+  - "evaluation"
+  - "model-infrastructure"
+source_url: "https://arxiv.org/abs/2605.29548"
+local_pdf: "paper.pdf"
+notes:
+  reading: "notes/reading-notes.md"
+  summary: "notes/summary.zh.md"
+  external_views: "notes/external-views.md"

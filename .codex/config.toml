@@ -1,0 +1,5 @@
+[skills]
+config = [
+  { path = "../skills/paper-read-init-paper", enabled = true },
+  { path = "../skills/paper-read-capture-qa-notes", enabled = true },
+]
